@@ -115,6 +115,7 @@ to craft a PoC for your own business network.
    nodesdk
    chaincode
    endorsement-policies
+   channels
    orderingservice
    ledger
    readwrite
