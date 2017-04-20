@@ -2,7 +2,7 @@ Building the fabric
 -------------------
 
 The following instructions assume that you have already set up your
-`development environment <devenv.md>`__.
+`development environment <devenv>`__.
 
 To build the Fabric:
 
@@ -44,8 +44,8 @@ Running Behave BDD Tests
 
 **Note:** currently, the behave tests must be run from within in the
 Vagrant environment. See the devenv setup instructions if you have not
-already set up your `Vagrant
-environment <devenv.md#Boostrapping-the-VM-using-Vagrant>`__.
+already set up your :doc:`Vagrant
+environment <devenv#Bootstrapping-the-VM-using-Vagrant>`.
 
 `Behave <http://pythonhosted.org/behave/>`__ tests will setup networks
 of peers with different security and consensus configurations and verify
