@@ -1,4 +1,4 @@
-Hyperledger Fabric is a unique implementation of distributed ledger
+1Hyperledger Fabric is a unique implementation of distributed ledger
 technology (DLT) that ensures data integrity and consistency while
 delivering accountability, transparency, and efficiencies unmatched by
 other blockchain or DLT technology.
